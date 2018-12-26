@@ -1,2 +1,2 @@
-# Android-Calculator
-An easy Android calculator with numbers, operators, square root, brackets and trigonometric functions. 
+# Simple Calculator
+A simple android calculator app using exp4j
